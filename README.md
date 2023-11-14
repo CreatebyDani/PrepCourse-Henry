@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Workout repositorio de prueba M2 Henry
+Esta es una prueba de crear un repositorio y como clonarlo desde Github a mi computadora.
